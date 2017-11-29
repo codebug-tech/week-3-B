@@ -1,0 +1,38 @@
+body {
+	background: url(images/mountain.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: Garamond;
+}
+
+.title {
+	text-align: center;
+	font-size: 55px;
+	font-family: Monoton;
+}
+
+#quote-box {
+	background-color: white;
+	width: 500px;
+	border-radius: 15px;
+	padding: 2px;
+}
+
+.author {
+	font-size: 12px;
+}
+
+#built-strong-box {
+	border: 3px solid green;
+	color: white;
+	width: 200px;
+	float: right;
+	text-align: center;
+}
+
+li {
+	width: 25%;
+	display: inline-block;
+	border-left: medium double black;
+	padding: 3px 6px;
+}
