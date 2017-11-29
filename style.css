@@ -1,0 +1,16 @@
+body{
+	font-family: georgia;
+	background: linear-gradient(#518248,black)
+}
+h1{
+	text-align: center;
+}
+#quote-box{
+	background: white;
+	border-radius: 25px;
+	width: 400px;
+	padding: 10px;
+}
+h2{
+	text-align: center;
+}
