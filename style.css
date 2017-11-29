@@ -1,0 +1,22 @@
+body {
+	background-color: green;
+	font-family: Arial, Sans-serif;
+
+}
+p{
+	font-family: Arial, Sans-serif;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+#quote-box{
+	color: white;
+	width: 300px;
+	border-radius: 20px;
+	border-radius: 25px;
+    padding: 20px; 
+
+}
