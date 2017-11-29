@@ -1,16 +1,42 @@
+html{
+   height: 100%;
+}
 body{
 	font-family: georgia;
-	background: linear-gradient(#518248,black)
+	background-image: url('mountain.jpg');
+  background-size: cover;
+  background-repeat:no-repeat;
 }
 h1{
+  font-family: 'Monoton', cursive;
 	text-align: center;
+  font-size:300%;
 }
-#quote-box{
-	background: white;
+.quote{
+  width: 100px;
+  display: inline-block;
+  border-left: 1.5px solid;
+  padding: 5px;
+  font-style: italic;
+}
+#quote-box {
+  background: rgba(255,255,255,0.6);
 	border-radius: 25px;
 	width: 400px;
 	padding: 10px;
 }
 h2{
 	text-align: center;
+}
+.author{
+  font-size: 75%;
+}
+#built-strong-box{
+  border-style:solid;
+  border-width: thick;
+  border-color: grey;
+  width: 250px;
+  text-align: center;
+  color: white;
+  float: right;
 }
